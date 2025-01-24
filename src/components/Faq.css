@@ -1,0 +1,10 @@
+@media(max-width: 900px){
+    .faq{
+        flex-direction: column;
+        width: 90vw;
+    }
+
+    .col{
+        width: 100%;
+    }
+}

@@ -1,0 +1,17 @@
+@media(max-width: 900px){
+    .landing{
+        flex-direction: column;
+    }
+
+    .left{
+        width: 100%;
+    }
+
+    .right{
+        padding: 0;
+    }
+
+    .book{
+        margin-left: -8%;
+    }
+}

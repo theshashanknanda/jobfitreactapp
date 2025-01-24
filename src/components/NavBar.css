@@ -1,0 +1,33 @@
+@media(max-width: 900px){
+    .ham{
+        margin-top: 10px;
+        display: block;
+    }
+
+    .list{
+        display: none;
+    }
+
+    .buttons{
+        display: none;
+    }
+}
+
+.mininav{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.minilist{
+    display: flex;
+    flex-direction: column;
+}
+
+.minibuttons{
+    width: 70%;
+    display: flex;
+    justify-content: start;
+    gap: 0.5rem;
+}

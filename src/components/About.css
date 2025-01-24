@@ -1,0 +1,22 @@
+@media(max-width: 900px){
+    .about{
+        flex-direction: column;
+        width: 90vw;
+    }
+
+    .left{
+        place-self: center;
+    }
+
+    .right{
+        padding-left: 12%;
+    }
+
+    .title{
+        font-size: 3rem;
+    }
+
+    .man{
+        margin-left: 4%;
+    }
+}
